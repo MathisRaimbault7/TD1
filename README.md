@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-# TD1
-<<<<<<< HEAD
-vive le psg 
-=======
-
-=======
 
 # TD1
 
@@ -14,7 +7,6 @@ M
 '
 Appelle
 
->>>>>>> 34a8266 (fdjvjbd)
 number1 = 5
 number2 = 10
 sum = number1 + number2
